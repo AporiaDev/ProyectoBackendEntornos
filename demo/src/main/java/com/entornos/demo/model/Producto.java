@@ -1,7 +1,7 @@
 package com.entornos.demo.model;
 
 import jakarta.persistence.*;
-@Entity;
+@Entity
 
 
 @Table(name = "producto")
